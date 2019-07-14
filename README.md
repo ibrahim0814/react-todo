@@ -2,7 +2,7 @@
 
 ## What is this?
 
-### A simple React to-do application that I built to understand how hooks work
+### A simple React to-do application that I built to understand how hooks work - [demo it here!](https://priceless-keller-8b531c.netlify.com/)
 
 ![](react-todo-gif.gif)
 
@@ -14,7 +14,7 @@ Read more about hooks in the official [React documentation](https://reactjs.org/
 
 ## How to use hooks
 
-Essentially, all we to do is import `useState` from React at the top of our JS file. Then, within the component, declare state with the following syntax:
+Essentially, all we have to do is import `useState` from React at the top of our JS file. Then, within the component, declare state with the following syntax:
 
 `const [value, setValue] = useState([1,2,3]);`
 
