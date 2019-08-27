@@ -2,7 +2,7 @@
 
 ## What is this?
 
-### A simple React to-do application that I built to understand how hooks work - [demo it here!](react-todo-8b.netlify.com)
+### A simple React to-do application that I built to understand how hooks work - [demo it here!](https://react-todo-8b.netlify.com/)
 
 ![](react-todo-gif.gif)
 
